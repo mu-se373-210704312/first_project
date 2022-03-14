@@ -1,16 +1,13 @@
 # first_project
 
-A new Flutter project.
+Görkem Çirtma
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    *Client
+*Define age,weight,tall etc(profile)
+*update server with profile
+*Add,delete,create,modify
+*Create traning program and diet program
+*send a request to search a trainer profile and his/her training program and diet program
+    *Server
+*Profile of users
+*Recieve request and use profile info
